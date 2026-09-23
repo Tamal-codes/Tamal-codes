@@ -1,5 +1,17 @@
 ![image alt](https://github.com/Tamal-codes/Tamal-codes/blob/b9f12413154a3dcff0b6991c84bfa01aea7ad385/Gemini_Generated_Image_7j1x6b7j1x6b7j1x.jpg)
 
+<div align="center">
+
+# **Hi 👋, I'm Towfiqul Islam**
+
+</div>
+
+A passionate **Web Developer** from **Bangladesh** 🇧🇩
+
+I'm currently learning Full Stack Web Development as a student on **Programming Hero** | I'm passionate about web development and enjoy building projects while learning modern technologies |
+
+I am continuously improving my programming skills and exploring new tools and technologies to become a professional web developer.
+ 
 # 💫 About Me:
 🚀 I’m currently working on web development projects<br>🤝 I’m looking to collaborate on beginner-friendly web projects<br>💡 I’m looking for help with improving my JavaScript and React skills<br>🌱 I’m currently learning Next.js and modern web development<br>💬 Ask me about HTML, CSS, JavaScript, React and my learning journey<br>⚡ Fun fact: I enjoy building things and learning something new every day
 
