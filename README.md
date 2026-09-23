@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact🚀 I’m currently working on web development projects<br>🤝 I’m looking to collaborate on beginner-friendly web projects<br>💡 I’m looking for help with improving my JavaScript and React skills<br>🌱 I’m currently learning Next.js and modern web development<br>💬 Ask me about HTML, CSS, JavaScript, React and my learning journey<br>⚡ Fun fact: I enjoy building things and learning something new every day
+🚀 I’m currently working on web development projects<br>🤝 I’m looking to collaborate on beginner-friendly web projects<br>💡 I’m looking for help with improving my JavaScript and React skills<br>🌱 I’m currently learning Next.js and modern web development<br>💬 Ask me about HTML, CSS, JavaScript, React and my learning journey<br>⚡ Fun fact: I enjoy building things and learning something new every day
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tamal-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tamal-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tamal-codes&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tamal-codes&icon=0&color=0)](https://visitcount.itsvg.in)
