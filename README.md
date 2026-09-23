@@ -1,22 +1,37 @@
 <h1 align="center">Hi 👋, I'm Towfiqul Islam</h1>
-<h3 align="center">"Learning full-stack web development at Programming Hero. I build projects, explore new technologies, and continuously refine my skills to become a professional web developer."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamal-codes" alt="tamal-codes" /></a> </p>
+<h3 align="center"> Learning Full-Stack Web Development at Programming Hero 🚀 </h3>
 
-- 🌱 I’m currently learning Next.js and modern web development **JavaScript, React, Next.js**
+<p align="center"> I build projects, explore modern technologies, and continuously improve my skills to become a professional web developer. </p>
 
-- 💬 Ask me about HTML, CSS, JavaScript, React and my learning journey **Html,Css,JavaSccript,Tailwind,React,Next.js**
+👨‍💻 About Me
+🌱 Currently learning Next.js and modern web development
+💻 Learning HTML, CSS, JavaScript, Tailwind CSS, React, and Next.js
+🔨 Building projects to improve my practical skills
+🎯 Goal: Become a professional Full-Stack Web Developer
+📫 Email: tohidulislamtamal@gmail.com
+🛠️ Languages and Tools
 
-- 📫 How to reach me **tohidulislamtamal@gmail.com**
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/towfiqul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="towfiqul islam" height="30" width="40" /></a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamal-codes&show_icons=true&locale=en" alt="tamal-codes" /></p>
+<a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamal-codes&" alt="tamal-codes" /></p>
+<a href="https://react.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/> </a>
+
+<a href="https://nextjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/> </a>
+
+<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/> </a> </p>
+
+🔗 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/towfiqul-islam-46a312431/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/> </a> </p>
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tamal-codes&show_icons=true&theme=transparent" alt="Towfiqul's GitHub Stats"/> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamal-codes&theme=transparent" alt="Towfiqul's GitHub Streak"/> </p>
